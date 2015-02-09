@@ -1,2 +1,2 @@
 # hello-world
-A simple project to test Github
+A simple project to test Github.com
